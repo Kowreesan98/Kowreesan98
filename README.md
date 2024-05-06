@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react.js**
 
-- 📫 How to reach me **https://www.linkedin.com/in/kowreesan-parames-471914258/**
+- 📫 How to reach me **https://www.linkedin.com/in/kowreesan-parameswaran-471914258/**
 
 - ⚡ Fun fact **Always Fun😊**
 
