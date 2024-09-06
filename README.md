@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parameswaran Kowreesan</h1>
-<h3 align="center">A Passionate Frontend Developer From Srilanka</h3>
+<h3 align="center">A Passionate  Full-Stack Developer From Srilanka</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
@@ -7,9 +7,6 @@
 
 - ❤ I Love Programming
 - 🌱 I’m currently learning **New Technologies**
-
-
-- 💬 Ask me about **react.js**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kowreesan-parameswaran-471914258/**
 
