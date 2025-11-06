@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parameswaran Kowreesan</h1>
-<h3 align="center">A Passionate  Full-Stack Developer From Srilanka</h3>
+<h3 align="center">AI-Driven Full-Stack Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
